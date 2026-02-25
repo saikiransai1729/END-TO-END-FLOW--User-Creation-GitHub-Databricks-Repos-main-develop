@@ -1,6 +1,11 @@
 # END-TO-END-FLOW--User-Creation-GitHub-Databricks-Repos-main-develop
 
+## 📊 Databricks Git Integration Architecture
 
+![Databricks Repos Architecture](assets/architecture/databricks-repos-architecture.svg)
+
+This diagram illustrates how Azure Databricks Repos integrates with GitHub,
+enabling controlled branch-based development and CI/CD-driven deployment workflows.
 📊 Architecture Diagram – Databricks Git Integration Model
 
 
