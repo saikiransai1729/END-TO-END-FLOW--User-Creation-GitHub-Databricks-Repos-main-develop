@@ -2,6 +2,9 @@
 
 
 📊 Architecture Diagram – Databricks Git Integration Model
+
+
+
                 ┌────────────────────────┐
                 │        Developers      │
                 │  (Data Engineers)      │
