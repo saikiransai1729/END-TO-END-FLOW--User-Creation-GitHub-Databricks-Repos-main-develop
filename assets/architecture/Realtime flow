@@ -1,17 +1,3 @@
-Good — I’ll now explain the **entire Databricks Git Repo setup visually**, matching what you showed in your screenshots, but structured properly from start → end.
-
-We’ll cover:
-
-1. Git Repo creation
-2. Databricks Git integration
-3. Creating Git Folder
-4. Branch creation
-5. Notebook creation
-6. Commit & Push
-
-All with visual context.
-
----
 
 # 1️⃣ Create Repository in GitHub
 
